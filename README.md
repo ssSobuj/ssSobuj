@@ -5,15 +5,15 @@
 <h1 align="center">Hi 👋, I'm Sabuj Mia</h1>
 
 <h3 align="center">
-Full-Stack Engineer | AI Native Developer | SaaS Builder
+Full-Stack Engineer | SaaS Builder | AI Native Developer
 </h3>
 
 <p align="center">
-I build scalable web applications, SaaS platforms, and AI-powered products.
+Building scalable web applications and AI-powered digital products.
 </p>
 
 <p align="center">
-  <a href="https://sobuj-mia-portfolio.vercel.app/">
+  <a href="https://sabuj.online">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
   </a>
 
@@ -28,41 +28,58 @@ I build scalable web applications, SaaS platforms, and AI-powered products.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🔭 Currently working as a **Full-Stack Engineer**
+I'm a passionate Full-Stack Engineer with 2.5+ years of experience building scalable SaaS platforms, enterprise applications, and modern web products.
+
+I specialize in React, Next.js, TypeScript, Node.js, and PostgreSQL. I enjoy solving complex problems, optimizing performance, and building AI-powered applications.
+
+* 🔭 Currently working as **Full-Stack Engineer**
 * 🌱 Exploring **AI Native Development**
 * 💬 Ask me about **Next.js, React, TypeScript, Node.js, Prisma**
-* ⚡ Passionate about building scalable products
+* ⚡ Passionate about scalable architecture & clean code
 * 🇧🇩 Based in Bangladesh
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Toolbox
+
+| Category    | Technologies                                                      |
+| ----------- | ----------------------------------------------------------------- |
+| Frontend    | React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, Zustand |
+| Backend     | Node.js, Express.js, REST APIs, Prisma                            |
+| Database    | PostgreSQL, MySQL, MongoDB, Firebase                              |
+| Styling     | Tailwind CSS, ShadCN UI, SCSS, Bootstrap                          |
+| DevOps      | Git, GitHub, Vercel, Postman                                      |
+| AI Tools    | OpenAI, Cursor, Claude Code, Gemini, GitHub Copilot               |
+| Performance | SSR, CSR, SEO, SWR                                                |
+| Learning    | AI Engineering, System Design, Scalable Architecture              |
+
+---
+
+## 🔥 Highlighted Projects
+
+| Project                    | Type                  |
+| -------------------------- | --------------------- |
+| Aurora Bangladesh          | Enterprise E-Commerce |
+| Shocchota ERP              | Accounting SaaS       |
+| Learning Management System | LMS Platform          |
+| CUET Official Website      | University Platform   |
+| KireiBD                    | E-Commerce Platform   |
+| SeloraX Dashboard          | SaaS Dashboard        |
+| AI Chat Platform           | AI Application        |
+
+---
+
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,mongodb,mysql,prisma,firebase,tailwind,redux,git,github,vercel,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,mongodb,mysql,prisma,firebase,tailwind,redux,git,github,vercel,figma,vscode" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
-
-### 🛒 Aurora Bangladesh
-
-Multi-store enterprise eCommerce platform with role-based management.
-
-### 📚 Learning Management System
-
-Modern LMS platform with student and instructor dashboards.
-
-### 💼 Shocchota ERP
-
-Multi-tenant SaaS accounting software with CRM modules.
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ssSobuj&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -71,7 +88,7 @@ Multi-tenant SaaS accounting software with CRM modules.
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssSobuj&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=ssSobuj&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -79,35 +96,29 @@ Multi-tenant SaaS accounting software with CRM modules.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ssSobuj&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ssSobuj&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 💼 Professional Experience
+
+* **Full Stack Developer** — SeloraX
+* **Frontend Developer** — The Tork Inc.
+* **Full Stack Developer (Part Time)** — Boost Rava
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssSobuj&theme=tokyo-night&hide_border=true"/>
+  <a href="https://sabuj.online">🌐 Portfolio</a> •
+  <a href="mailto:mdsobujredoy@gmail.com">📧 Email</a> •
+  <a href="https://github.com/ssSobuj">🐙 GitHub</a>
 </p>
 
 ---
 
-## 🤝 Connect With Me
-
 <p align="center">
-  <a href="mailto:mdsobujredoy@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-
-  <a href="https://sobuj-mia-portfolio.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel"/>
-  </a>
-
-  <a href="https://github.com/ssSobuj">
-    <img src="https://skillicons.dev/icons?i=github"/>
-  </a>
-</p>
-
-<p align="center">
-⭐ From <b>Sabuj Mia</b>
+<i>"Building scalable digital products with clean architecture and modern technologies."</i>
 </p>
