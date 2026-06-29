@@ -1,37 +1,113 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-
-<h1 align="center">Hi 👋, I'm Md Sabuj Mia</h1>
-<h3 align="center">A passionate Frontend Jr web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssSobuj&label=Profile%20views&color=0e75b6&style=flat" alt="sobujmia" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sobujredoy" target="blank"><img src="https://img.shields.io/twitter/follow/mdsobujmia?logo=twitter&style=for-the-badge" alt="sobujmia"  </p>
-
-- 💬 Ask me about **JS, React**
-
-- 📫 How to reach me **mdsobujredoy@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://twitter.com/sobujredoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sabujmia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/developer-sabuj-mia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<p align="center">
+  <img src="./ChatGPT%20Image%20Jun%2024,%202026,%2004_35_26%20PM.png" width="100%" alt="Sabuj Mia Banner"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Sabuj Mia</h1>
 
+<h3 align="center">
+Full-Stack Engineer | AI Native Developer | SaaS Builder
+</h3>
 
+<p align="center">
+I build scalable web applications, SaaS platforms, and AI-powered products.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssSobuj&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sabujmia" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssSobuj&show_icons=true&locale=en&theme=tokyonight" alt="sobuj" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="sobujmia" /></p>
+<p align="center">
+  <a href="https://sobuj-mia-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
+  </a>
 
+  <a href="mailto:mdsobujredoy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
 
+  <a href="https://github.com/ssSobuj">
+    <img src="https://img.shields.io/github/followers/ssSobuj?label=Followers&style=for-the-badge"/>
+  </a>
+</p>
 
+---
 
+## 🚀 About Me
 
+* 🔭 Currently working as a **Full-Stack Engineer**
+* 🌱 Exploring **AI Native Development**
+* 💬 Ask me about **Next.js, React, TypeScript, Node.js, Prisma**
+* ⚡ Passionate about building scalable products
+* 🇧🇩 Based in Bangladesh
 
+---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,mongodb,mysql,prisma,firebase,tailwind,redux,git,github,vercel,figma,vscode" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🛒 Aurora Bangladesh
+
+Multi-store enterprise eCommerce platform with role-based management.
+
+### 📚 Learning Management System
+
+Modern LMS platform with student and instructor dashboards.
+
+### 💼 Shocchota ERP
+
+Multi-tenant SaaS accounting software with CRM modules.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ssSobuj&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssSobuj&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssSobuj&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ssSobuj&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssSobuj&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:mdsobujredoy@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+
+  <a href="https://sobuj-mia-portfolio.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel"/>
+  </a>
+
+  <a href="https://github.com/ssSobuj">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
+
+<p align="center">
+⭐ From <b>Sabuj Mia</b>
+</p>
