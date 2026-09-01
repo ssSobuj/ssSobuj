@@ -1,28 +1,41 @@
 <p align="center">
-  <img src="./ChatGPT%20Image%20Jun%2024,%202026,%2004_35_26%20PM.png" width="100%" alt="Sabuj Mia Banner"/>
+  <img
+    src="./ChatGPT%20Image%20Jun%2024,%202026,%2004_35_26%20PM.png"
+    width="100%"
+    alt="Sabuj Mia Banner"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sabuj Mia</h1>
 
 <h3 align="center">
-Full-Stack Engineer | SaaS Builder | AI Native Developer
+  Full-Stack Engineer | SaaS Builder | AI Native Developer
 </h3>
 
 <p align="center">
-Building scalable web applications and AI-powered digital products.
+  Building scalable web applications and AI-powered digital products.
 </p>
 
 <p align="center">
   <a href="https://sabuj.online">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"
+      alt="Portfolio"
+    />
   </a>
 
   <a href="mailto:mdsobujredoy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img
+      src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"
+      alt="Email"
+    />
   </a>
 
   <a href="https://github.com/ssSobuj">
-    <img src="https://img.shields.io/github/followers/ssSobuj?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+    <img
+      src="https://img.shields.io/github/followers/ssSobuj?label=Followers&style=for-the-badge"
+      alt="GitHub Followers"
+    />
   </a>
 </p>
 
@@ -44,37 +57,40 @@ I specialize in React, Next.js, TypeScript, Node.js, and PostgreSQL. I enjoy sol
 
 ## 🧰 Tech Toolbox
 
-| Category        | Technologies                                                      |
-| --------------- | ----------------------------------------------------------------- |
-| **Frontend**    | React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, Zustand |
-| **Backend**     | Node.js, Express.js, REST APIs, Prisma                            |
-| **Database**    | PostgreSQL, MySQL, MongoDB, Firebase                              |
-| **Styling**     | Tailwind CSS, ShadCN UI, SCSS, Bootstrap                          |
-| **DevOps**      | Git, GitHub, Vercel, Postman                                      |
-| **AI Tools**    | OpenAI, Cursor, Claude Code, Gemini, GitHub Copilot               |
-| **Performance** | SSR, CSR, SEO, SWR                                                |
-| **Learning**    | AI Engineering, System Design, Scalable Architecture              |
+| Category    | Technologies                                                      |
+| ----------- | ----------------------------------------------------------------- |
+| Frontend    | React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, Zustand |
+| Backend     | Node.js, Express.js, REST APIs, Prisma                            |
+| Database    | PostgreSQL, MySQL, MongoDB, Firebase                              |
+| Styling     | Tailwind CSS, ShadCN UI, SCSS, Bootstrap                          |
+| DevOps      | Git, GitHub, Vercel, Postman                                      |
+| AI Tools    | OpenAI, Cursor, Claude Code, Gemini, GitHub Copilot               |
+| Performance | SSR, CSR, SEO, SWR                                                |
+| Learning    | AI Engineering, System Design, Scalable Architecture              |
 
 ---
 
 ## 🔥 Highlighted Projects
 
-| Project                        | Type                  |
-| ------------------------------ | --------------------- |
-| **Aurora Bangladesh**          | Enterprise E-Commerce |
-| **Shocchota ERP**              | Accounting SaaS       |
-| **Learning Management System** | LMS Platform          |
-| **CUET Official Website**      | University Platform   |
-| **KireiBD**                    | E-Commerce Platform   |
-| **SeloraX Dashboard**          | SaaS Dashboard        |
-| **AI Chat Platform**           | AI Application        |
+| Project                    | Type                  |
+| -------------------------- | --------------------- |
+| Aurora Bangladesh          | Enterprise E-Commerce |
+| Shocchota ERP              | Accounting SaaS       |
+| Learning Management System | LMS Platform          |
+| CUET Official Website      | University Platform   |
+| KireiBD                    | E-Commerce Platform   |
+| SeloraX Dashboard          | SaaS Dashboard        |
+| AI Chat Platform           | AI Application        |
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,mongodb,mysql,prisma,firebase,tailwind,redux,git,github,vercel,figma,vscode" alt="Skills"/>
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,postgres,mongodb,mysql,prisma,firebase,tailwind,redux,git,github,vercel,figma,vscode"
+    alt="Skills"
+  />
 </p>
 
 ---
@@ -84,34 +100,23 @@ I specialize in React, Next.js, TypeScript, Node.js, and PostgreSQL. I enjoy sol
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=ssSobuj&show_icons=true&theme=tokyonight&hide_border=true"
+    src="./profile/stats.svg"
     alt="Sabuj's GitHub Stats"
   />
 
 <img
  width="49%"
- src="https://streak-stats.demolab.com/?user=ssSobuj&theme=tokyonight&hide_border=true"
- alt="Sabuj's GitHub Streak"
+ src="./profile/contributions.svg"
+ alt="Sabuj's GitHub Contributions"
 />
 
 </p>
 
 <p align="center">
   <img
-    width="60%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ssSobuj&theme=tokyo-night&hide_border=true"
-    alt="Sabuj's GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ssSobuj&theme=tokyonight&no-frame=true&row=1&column=7"
-    alt="GitHub Trophies"
+    width="49%"
+    src="./profile/top-langs.svg"
+    alt="Sabuj's Top Languages"
   />
 </p>
 
@@ -138,5 +143,7 @@ I specialize in React, Next.js, TypeScript, Node.js, and PostgreSQL. I enjoy sol
 ---
 
 <p align="center">
-  <i>"Building scalable digital products with clean architecture and modern technologies."</i>
+  <i>
+    "Building scalable digital products with clean architecture and modern technologies."
+  </i>
 </p>
