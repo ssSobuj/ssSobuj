@@ -100,22 +100,21 @@ I specialize in React, Next.js, TypeScript, Node.js, and PostgreSQL. I enjoy sol
 <p align="center">
   <img
     width="49%"
-    src="./profile/stats.svg"
+    src="https://github-readme-stats.vercel.app/api?username=ssSobuj&show_icons=true"
     alt="Sabuj's GitHub Stats"
   />
 
-<img
- width="49%"
- src="./profile/contributions.svg"
- alt="Sabuj's GitHub Contributions"
-/>
-
+  <img
+   width="49%"
+   src="https://github-readme-streak-stats.herokuapp.com/?user=ssSobuj"
+   alt="Sabuj's GitHub Contributions"
+  />
 </p>
 
 <p align="center">
   <img
     width="49%"
-    src="./profile/top-langs.svg"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssSobuj&layout=compact"
     alt="Sabuj's Top Languages"
   />
 </p>
