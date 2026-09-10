@@ -14,7 +14,9 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate GitHub Stats
         uses: cicirello/user-statistician@v1
@@ -64,6 +66,11 @@ jobs:
           commit-and-push: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check generated files
+        run: |
+          echo "Generated files:"
+          ls -la profile/
 
       - name: Commit generated SVG files
         run: |
