@@ -98,18 +98,26 @@ I specialize in React, Next.js, TypeScript, Node.js, and PostgreSQL. I enjoy sol
 ## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/ssSobuj">
-    <img
-      src="https://img.shields.io/badge/GitHub-View%20My%20Activity-181717?style=for-the-badge&logo=github"
-      alt="View GitHub Activity"
-    />
-  </a>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=ssSobuj&show_icons=true"
+    alt="Sabuj's GitHub Stats"
+  />
+
+  <img
+   width="49%"
+   src="https://github-readme-streak-stats.herokuapp.com/?user=ssSobuj"
+   alt="Sabuj's GitHub Contributions"
+  />
 </p>
 
 <p align="center">
-  <b>Active on GitHub almost every day, building SaaS products, AI applications, and modern web platforms.</b>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssSobuj&layout=compact"
+    alt="Sabuj's Top Languages"
+  />
 </p>
-
 
 ---
 
