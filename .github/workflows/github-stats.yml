@@ -9,80 +9,36 @@ permissions:
   contents: write
 
 jobs:
-  generate-stats:
+  generate-activity:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Generate GitHub Stats
-        uses: cicirello/user-statistician@v1
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          image-file: profile/stats.svg
-          hide-keys: contributions, languages
-          include-title: true
-          custom-title: "Sabuj's GitHub Stats"
-          colors: light
-          border-radius: 6
-          show-border: true
-          locale: en
-          fail-on-error: true
-          commit-and-push: false
+          python-version: "3.12"
+
+      - name: Generate GitHub Activity SVG
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Contributions
-        uses: cicirello/user-statistician@v1
-        with:
-          image-file: profile/contributions.svg
-          hide-keys: general, repositories, languages
-          include-title: true
-          custom-title: "Sabuj's GitHub Contributions"
-          colors: light
-          border-radius: 6
-          show-border: true
-          locale: en
-          fail-on-error: true
-          commit-and-push: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Top Languages
-        uses: cicirello/user-statistician@v1
-        with:
-          image-file: profile/top-langs.svg
-          hide-keys: general, repositories, contributions
-          include-title: true
-          custom-title: "Sabuj's Top Languages"
-          max-languages: 8
-          colors: light
-          border-radius: 6
-          show-border: true
-          locale: en
-          fail-on-error: true
-          commit-and-push: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Check generated files
+          GITHUB_USERNAME: ssSobuj
         run: |
-          echo "Generated files:"
-          ls -la profile/
+          python scripts/generate_github_activity.py
 
-      - name: Commit generated SVG files
+      - name: Commit activity SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/*.svg
+          git add profile/github-activity.svg
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
-          git commit -m "chore: update GitHub activity cards"
+          git commit -m "chore: update GitHub activity"
           git push
